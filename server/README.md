@@ -6,8 +6,12 @@ https://golang.org/dl/go1.15.windows-amd64.msi
 go mod init <name_modules>
 ```
 
-### Run project
+### Build project
+```
+go build
+```
 
+### Run project
 ```
 go run main.go
 ```
